@@ -1,6 +1,6 @@
 PUHELINLUETTELO ILMAN TIETOKANTAA
 
-Heroku  https://desolate-tundra-54362.herokuapp.com/
+https://desolate-tundra-54362.herokuapp.com/
 
 Frontend  https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelo/frontend
 
