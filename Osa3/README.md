@@ -1,12 +1,12 @@
-HEROKU
-puhelinluettelo ilman tietokantaa:  https://desolate-tundra-54362.herokuapp.com/
-puhelinluettelo tietokannalla: https://secret-depths-30782.herokuapp.com/
-
-FRONT ENDS
-https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelo/frontend
-https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelojatietokanta/frontend
+PUHELINLUETTELO ILMAN TIETOKANTAA
+Heroku  https://desolate-tundra-54362.herokuapp.com/
+Frontend  https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelo/frontend
+Backend short  https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelo/backend
+Backend full  https://github.com/epylkkan/fullstack-hy2020_Osa3_backend
 
 
-BACKENDS
-https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelo/backend
-https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelojatietokanta/backend
+PUHELINLUETTELO TIETOKANNALLA
+Heroku puhelinluettelo tietokannalla: https://secret-depths-30782.herokuapp.com/
+Frontend https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelojatietokanta/frontend
+Backend short  https://github.com/epylkkan/fullstack-hy2020/tree/master/Osa3/puhelinluettelojatietokanta/backend
+Backend full  https://github.com/epylkkan/fullstack-hy2020_Osa3_backend_with_db
