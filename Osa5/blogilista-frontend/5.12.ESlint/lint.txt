@@ -1,0 +1,4 @@
+
+> bloglist-frontend@0.1.0 lint C:\Program Files\nodejs\Osa5\blogilista-frontend
+> eslint .
+
